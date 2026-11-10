@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+flask
+flask-cors
+# optional (only if you want a real LLM): 
+# langchain
+# langchain-google-genai
