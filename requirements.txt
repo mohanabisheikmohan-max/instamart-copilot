@@ -4,6 +4,7 @@ scikit-learn
 matplotlib
 flask
 flask-cors
+gunicorn
 # optional (only if you want a real LLM): 
 # langchain
 # langchain-google-genai
